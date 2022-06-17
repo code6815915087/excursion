@@ -34,3 +34,12 @@ text-align:left;
 font-size:21px;
 color:gray;
 }
+
+video{
+text-align:center;
+}
+
+img{
+text-align:center;
+display:block;
+}
